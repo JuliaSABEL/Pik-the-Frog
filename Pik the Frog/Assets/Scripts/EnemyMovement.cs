@@ -20,10 +20,5 @@ public class EnemyMovement : MonoBehaviour
             Debug.Log("Touch");
             newDirection = false;
         }
-        else
-        {
-            Debug.Log("No touch");
-            newDirection = true;
-        }
     }
 }
