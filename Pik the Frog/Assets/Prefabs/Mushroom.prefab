@@ -171,4 +171,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8587223c2a12ed04284869f7f739664f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementSpeed: 2
+  speed: 3
+  labyrinthLayer:
+    serializedVersion: 2
+    m_Bits: 8
